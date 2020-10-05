@@ -1,1 +1,1 @@
-# eecs_731_hw_project4
+# Major Leagues
